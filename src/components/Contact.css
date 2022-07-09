@@ -1,0 +1,22 @@
+.card {
+  text-align: center;
+  justify-content: space-between;
+  width: 42%;
+  margin: auto;
+  margin-top: 16px;
+  margin-bottom: 32px;
+  background-color: #f4deb3;
+  display: flex;
+  border-radius: 32px;
+}
+
+.card > div {
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  font-size: 1.17em;
+}
+
+img {
+  border-radius: 50%;
+}
